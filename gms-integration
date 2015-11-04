@@ -1,0 +1,5 @@
+###
+### GMS integration
+###
+upstream 4640d06a8ccb0a12e91bbd00cc3e2423d17ee243
+	vaDeriveImage: properly set VAImage format
