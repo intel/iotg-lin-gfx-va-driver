@@ -1,0 +1,7 @@
+###
+### GMS integration
+###
+upstream f6fe8428cc395771659a010222d0e3774b876535
+	support VP9 profile2 10bits decoding
+topic/bxt-enablement fa5fd7cbe33402c9124f454c893410e4be627ad2
+	Update list of PCIIDs APL-I
