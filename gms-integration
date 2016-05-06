@@ -1,0 +1,5 @@
+###
+### GMS integration
+###
+upstream 4643f94991e4e36ce3a23de63cce9fe543ed1725
+	add the support of 8-aligned size setting for hevc encoding
