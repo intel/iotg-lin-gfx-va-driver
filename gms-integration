@@ -3,3 +3,10 @@
 ###
 upstream 4643f94991e4e36ce3a23de63cce9fe543ed1725
 	add the support of 8-aligned size setting for hevc encoding
+###
+### GMS integration
+###
+upstream 4643f94991e4e36ce3a23de63cce9fe543ed1725
+	add the support of 8-aligned size setting for hevc encoding
+topic/jpeg_8k_enc_dec_support af517364be0e75c292d4f06e84ff345356701f89
+	jpeg enc/dec gen9: Allow up to 16K JPEG max resolution on gen9
