@@ -1,0 +1,5 @@
+###
+### GMS integration
+###
+upstream dbe582c2361d3bb6a04968a2bc21b62bede9c46e
+	gen9_vp9_encoder: fix parameters sent to the shaders
