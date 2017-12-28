@@ -1,0 +1,5 @@
+###
+### GMS integration
+###
+upstream 8e687971775196fdf6986c6a2224ed70c18ac57c
+	travis: clone libva v1.8-branch to build intel-vaapi-driver v1.8-branch
